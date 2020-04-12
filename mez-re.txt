@@ -1,0 +1,12 @@
+---------------------------------
+RE:MEZ
+---------------------------------
+
+whois Netwurker | grep 4 identity
+whois Mez       | grep 4 answers
+
+traceroute 2 the src
+ping                // 4 ur echo response
+
+post => err, req
+get  => err, res
